@@ -1,0 +1,19 @@
+@import "./bg.module";
+.ContainerDiv {
+  padding: 60px;
+  color: #dddddd;
+  text-align: left;
+}
+.headerBtn {
+  height: 50px;
+  width: 140px;
+  margin-top: 10%;
+  margin-left: 10%;
+  border: 2px solid #323232;
+  background-color: transparent;
+  color: #dddddd;
+  border-radius: 20px;
+  &:hover {
+    background-color: #801336;
+  }
+}

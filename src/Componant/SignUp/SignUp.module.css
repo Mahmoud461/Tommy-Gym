@@ -1,0 +1,67 @@
+.ContainerDiv {
+  padding: 20px;
+  color: #dddddd;
+  padding: 40px;
+}
+
+.SignUpInput {
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: transparent;
+  border: 1px solid #dddddd;
+  height: 40px;
+  border-radius: 5px;
+  color: #dddddd;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.SignUpInput:focus {
+  background-color: #dddddd;
+}
+
+.SignUpInput:after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: #ff003b;
+  -webkit-transition: all 0.15s;
+  transition: all 0.15s;
+}
+
+.SignUpInput:focus:after {
+  width: 100%;
+}
+
+.SignUpLabel {
+  margin-bottom: 15apx;
+}
+
+.Form {
+  text-align: left;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.headerBtn {
+  height: 50px;
+  width: 100%;
+  border: 1px solid #dddddd;
+  background-color: #ea5455;
+  color: #dddddd;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.headerBtn:hover {
+  border: #065446;
+  background-color: #158467;
+}
+
+.headerBtn:active {
+  border: none;
+}
+/*# sourceMappingURL=SignUp.module.css.map */

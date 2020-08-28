@@ -1,0 +1,29 @@
+.ContainerDiv {
+  color: #dddddd;
+  padding: 50px;
+}
+
+.PeopleImg {
+  height: 150px;
+  width: 140px;
+  float: left;
+  margin-right: 15px;
+  border-radius: 10px;
+}
+
+.PeopleP {
+  color: #797a7e;
+  font-size: 90%;
+  margin-top: 2%;
+}
+
+.PeopleCard {
+  text-align: left;
+  padding: 20px;
+}
+
+.Icon {
+  font-size: 25px;
+  color: #ff5722;
+}
+/*# sourceMappingURL=People.module.css.map */

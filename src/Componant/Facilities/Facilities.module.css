@@ -1,0 +1,33 @@
+.DivContainer {
+  color: #dddddd;
+  padding: 20px;
+}
+
+.FacilImag {
+  height: 250px;
+  width: 350px;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.Icon {
+  font-size: 25px;
+  color: #ff5722;
+  margin-bottom: 20px;
+}
+
+.headerBtn {
+  height: 50px;
+  width: 140px;
+  border: 1px solid #d8d3cd;
+  background-color: transparent;
+  color: #dddddd;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+.headerBtn:hover {
+  background-color: #204051;
+}
+/*# sourceMappingURL=Facilities.module.css.map */

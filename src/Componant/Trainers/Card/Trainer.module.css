@@ -1,0 +1,26 @@
+.card {
+  color: white;
+  background-color: #3f3f44;
+  margin-top: 20px;
+  border-radius: 20px;
+  text-align: left;
+}
+
+.CardImg {
+  height: 270px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.CardP {
+  color: #63686e;
+}
+
+.Icon {
+  margin-right: 5px;
+  font-size: 35px;
+  padding: 3px;
+  border-radius: 3px;
+  background-color: #333333;
+}
+/*# sourceMappingURL=Trainer.module.css.map */

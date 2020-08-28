@@ -1,0 +1,57 @@
+.ContainerDiv {
+  padding: 20px;
+  color: #dddddd;
+  padding: 40px;
+}
+.SignUpInput {
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: transparent;
+  border: 1px solid #dddddd;
+  height: 40px;
+  border-radius: 5px;
+  color: #dddddd;
+  transition: all 0.35s;
+  &:focus {
+    background-color: #dddddd;
+  }
+  &:after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #ff003b;
+    transition: all 0.15s;
+  }
+  &:focus:after {
+    width: 100%;
+  }
+}
+.SignUpLabel {
+  margin-bottom: 15apx;
+}
+.Form {
+  text-align: left;
+  margin: auto;
+
+  margin-top: 10%;
+}
+.headerBtn {
+  height: 50px;
+  width: 100%;
+  border: 1px solid #dddddd;
+  background-color: #ea5455;
+  color: #dddddd;
+  border-radius: 10px;
+
+  margin-top: 20px;
+  &:hover {
+    border: #065446;
+    background-color: #158467;
+  }
+  &:active {
+    border: none;
+  }
+}

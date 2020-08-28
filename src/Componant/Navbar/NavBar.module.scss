@@ -1,0 +1,32 @@
+.navItem {
+  text-align: right !important;
+  color: #dddddd;
+  float: right !important;
+  text-decoration: none;
+  padding: 10px;
+  padding-bottom: 10px;
+  font-size: 120%;
+  &:hover {
+    text-decoration: none;
+    color: #8d93ab;
+  }
+}
+
+.NavH1 {
+  color: #dddddd;
+  font-family: "Black Ops One", cursive;
+}
+.Menu {
+  color: #dddddd;
+  font-size: 150%;
+  margin-bottom: 17px;
+}
+
+@media only screen and (max-width: 400px) {
+  .togg {
+    margin-right: -22px;
+  }
+  .NavH1 {
+    margin-left: -10px;
+  }
+}

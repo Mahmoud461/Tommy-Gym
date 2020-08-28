@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;CACf;;AACD,AAAA,aAAa,CAAC;EACZ,KAAK,EAAE,OAAO;EAEd,OAAO,EAAE,IAAI;CACd",
+    "sources": [
+        "Trainers.module.scss"
+    ],
+    "names": [],
+    "file": "Trainers.module.css"
+}
